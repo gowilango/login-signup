@@ -1,2 +1,2 @@
 # login-signup
-PHP Login and Sign Up using MySQL (with PHP Session and Cookies)
+Login and Sign Up using PHP and MySQL (with PHP Session and Cookies)
